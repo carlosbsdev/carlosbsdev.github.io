@@ -1,4 +1,5 @@
-if (document.getElementById("adblock")!=null) {
+window.onload = function(){
+    if (document.getElementById("adblock")!=null) {
 		//adblock off
 	}else{
 		//adblock on
@@ -7,3 +8,4 @@ if (document.getElementById("adblock")!=null) {
 			ads[z].innerHTML = '<img class="pleasesir" src="https://github.com/charlybs/charlybs.github.io/blob/master/images/whitelist.jpg?raw=true" alt="Please sir, I LOVE YOU."/>';
 		}
 	}
+};
