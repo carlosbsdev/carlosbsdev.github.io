@@ -4,9 +4,11 @@ title: About
 permalink: /about/
 ---
 
+### Charlybs
+
 Escribo artículos que me parecen útiles, interesantes o incluso divertidos. Espero que para ti alguno de ellos también lo sea.
 
-### More Information
+### BLOG
 
 Un blog sobre programación informática, tecnología, novedades y curiosidades en general. Escrito por Charlybs.
 
