@@ -21,6 +21,8 @@ body {
 	background: $white;
   font: 18px/1.4 $helvetica;
   color: $darkGray;
+/* Set the fixed height of the footer here */
+  margin-bottom: 150px;
 }
 
 .container {
@@ -281,6 +283,14 @@ nav {
 footer {
   padding: 20px 0;
   text-align: center;
+}
+/* Sticky footer styles -------------------------------------------------- */
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  /* Set the fixed height of the footer here */
+  height: 70px;
 }
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
