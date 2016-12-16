@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Escribo artículos que me parecen útiles, interesantes o incluso divertidos. Espero que para ti alguno de ellos también lo sea.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Un blog sobre programación informática, tecnología, novedades y curiosidades en general. Escrito por Charlybs.
 
 ### Contact me
 
