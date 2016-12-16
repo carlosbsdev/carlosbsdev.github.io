@@ -12,7 +12,10 @@ layout: default
   <div class="date">
     Written on {{ page.date | date: "%B %e, %Y" }}
   </div>
-<div class="ads">
+
+  {% include disqus.html %}
+</article>
+<aside class="ads">
 <!-- Adaptable  -->
   <ins class="adsbygoogle"
      style="display:block"
@@ -22,7 +25,5 @@ layout: default
   <script>
   (adsbygoogle = window.adsbygoogle || []).push({});
   </script>
-</div>
-  {% include disqus.html %}
-</article>
+</aside>
 
