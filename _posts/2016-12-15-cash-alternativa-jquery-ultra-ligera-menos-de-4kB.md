@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Cash, una alternativa ultra ligera de jQuery de Menos de 4kB.
+title: Cash, una alternativa ultra ligera de jQuery de menos de 4kB.
 ---
 
 Cash es una pequeña librería diseñada pensando en los navegadores modernos que sigue la sintaxis del famoso jQuery para manipular el DOM.
