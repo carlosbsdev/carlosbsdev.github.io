@@ -3,11 +3,6 @@ layout: post
 title: Cash, una alternativa ultra ligera de jQuery de Menos de 4kB.
 ---
 
-Cash is a small library for modern browsers (Chrome, Firefox, Safari and Internet Explorer 9+) that provides jQuery 
-style syntax for manipulating the DOM. Utilizing modern browser features to minimize the codebase, developers can use the familiar 
-chainable methods at a fraction of the file size. 
-100% feature parity with jQuery isn't a goal, but cash comes helpfully close, covering most day to day use cases.
-
 Cash es una pequeña librería diseñada pensando en los navegadores modernos que sigue la sintaxis del famoso jQuery para manipular el DOM.
 Gracias a su diseño, que hace uso de las características de los navegadores modernos, consigue reducir drásticamente su peso (menos de 4kB).
 
