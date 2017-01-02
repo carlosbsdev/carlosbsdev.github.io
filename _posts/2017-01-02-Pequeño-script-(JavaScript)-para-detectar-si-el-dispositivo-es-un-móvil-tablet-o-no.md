@@ -4,6 +4,7 @@ title: Pequeño script (JavaScript) para detectar si el dispositivo es un móvil
 ---
 
 Con este sencillo código en javascript podemos saber que tipo de dispositivo está ejecutando el mismo. Ya sea un smartphone (móvil), tablet o laptop/pc.
+Está hecho en javascript puro y como puedes apreciar si miras el archivo main.js, verás que es de verdad muy sencillo y que no conlleva ninguna complicación.
 
 
 Solo hay que añadir en el head:
