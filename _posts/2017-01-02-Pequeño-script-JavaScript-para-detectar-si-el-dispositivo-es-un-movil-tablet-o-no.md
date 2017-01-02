@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Pequeño script (JavaScript) para detectar si el dispositivo es un móvil-tablet o no.
+title: Pequeño script JavaScript para detectar si el dispositivo es un móvil-tablet o no.
 ---
 
 Con este sencillo código en javascript podemos saber que tipo de dispositivo está ejecutando el mismo. Ya sea un smartphone (móvil), tablet o laptop/pc.
