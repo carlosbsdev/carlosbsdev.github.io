@@ -12,6 +12,9 @@ Escribo artículos que me parecen útiles, interesantes o incluso divertidos. Es
 
 Un blog sobre programación informática, tecnología, novedades y curiosidades en general. Escrito por Charlybs.
 
-[//]: # ### Contact me
+<!--
+### Contact me
 
-[//]: # [email@domain.com](mailto:email@domain.com)
+[email@domain.com](mailto:email@domain.com)
+
+-->
