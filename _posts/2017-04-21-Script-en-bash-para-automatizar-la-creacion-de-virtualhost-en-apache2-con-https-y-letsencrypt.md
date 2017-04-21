@@ -12,7 +12,7 @@ Como dato, si usamos LetsEncrypt para obtener un certificado firmado por una ent
 Ya que eso permite una correcta redirección de htpps://www.dominio.com a https://dominio.com. Esto se consigue una vez con el virtualhost creado ejecutar un simple comando:
 ```bash
 
-$ letsencrypt -d www.domino.com -d dominio.com
+$ sudo letsencrypt -d www.domino.com -d dominio.com
 
 ```
 
@@ -20,4 +20,4 @@ Si no queremos eliminar las www. del dominio deberemos modificar algunas reglas 
 Realmente ahorra tiempo en configuraciones de virtualhost, aunque siempre puedes retocar más tarde pequeños detalles para que se adapte a ti.
 
 
-[virtualhost Script](https://github.com/charlybs/virtualhost) en GitHub.
+[Virtualhost Script](https://github.com/charlybs/virtualhost) en GitHub.
