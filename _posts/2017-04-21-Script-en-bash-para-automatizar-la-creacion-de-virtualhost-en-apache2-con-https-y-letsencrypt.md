@@ -16,7 +16,7 @@ $ sudo letsencrypt -d www.domino.com -d dominio.com
 
 ```
 
-Si no queremos eliminar las www. del dominio deberemos modificar algunas reglas dentro del \<virtualhost> en www.dominio.com.conf, aunque no lo recomiendo.
+Si no queremos eliminar las www. del dominio deberemos modificar algunas reglas dentro del virtualhost en www.dominio.com.conf, aunque no lo recomiendo.
 Realmente ahorra tiempo en configuraciones de virtualhost, aunque siempre puedes retocar más tarde pequeños detalles para que se adapte a ti.
 
 
