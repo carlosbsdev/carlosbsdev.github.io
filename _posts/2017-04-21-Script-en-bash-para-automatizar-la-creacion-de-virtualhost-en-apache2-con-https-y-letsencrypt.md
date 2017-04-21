@@ -5,6 +5,7 @@ title: Script en bash para automatizar la creación de virtualhost en Apache2 co
 
 Útil script en bash el cual permite automatizar crear o eliminar virtualhost en Apache2. Probado en ubuntu. 
 Permite la opción de crear el virtualhost con https y un certificado self-signed, pudiendo añadirle más tarde un certificado firmado por LetsEncrypt.
+
 Con la opción https, el script fuerza al dominio siempre a https y elimina las www. y https://www. a su correspondiente dirección sin ellas, algo que personalmente se agradece.
 
 Como dato, si usamos LetsEncrypt para obtener un certificado firmado por una entidad oficial, deberemos generar el certificado para www.dominio.com y dominio.com.
