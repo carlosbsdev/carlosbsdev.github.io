@@ -8,27 +8,38 @@
 
 <url>
   <loc>https://charlybs.github.io/</loc>
-  <lastmod>2017-04-21T14:07:46+00:00</lastmod>
-  <changefreq>never</changefreq>
+  <lastmod>2017-05-25T11:14:56+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://charlybs.github.io/mini.css-framework-css-muy-ligero-7kb-alternativa-bootstrap/</loc>
+  <lastmod>2017-05-25T11:14:56+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://charlybs.github.io/Script-en-bash-para-automatizar-la-creacion-de-virtualhost-en-apache2-con-https-y-letsencrypt/</loc>
-  <lastmod>2017-04-21T14:07:46+00:00</lastmod>
-  <changefreq>never</changefreq>
+  <lastmod>2017-05-25T11:14:56+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://charlybs.github.io/Peque%C3%B1o-script-JavaScript-para-detectar-si-el-dispositivo-es-un-movil-tablet-o-no/</loc>
-  <lastmod>2017-04-21T14:07:46+00:00</lastmod>
-  <changefreq>never</changefreq>
+  <lastmod>2017-05-25T11:14:56+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://charlybs.github.io/Una-forma-sencilla-detectar-adblock-en-tu-pagina-web/</loc>
-  <lastmod>2017-04-21T14:07:46+00:00</lastmod>
-  <changefreq>never</changefreq>
+  <lastmod>2017-05-25T11:14:56+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://charlybs.github.io/cash-alternativa-jquery-ultra-ligera-menos-de-4kB/</loc>
-  <lastmod>2017-04-21T14:07:46+00:00</lastmod>
-  <changefreq>never</changefreq>
+  <lastmod>2017-05-25T11:14:56+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.80</priority>
 </url>
 </urlset>
