@@ -4,10 +4,10 @@ title: About
 permalink: /about/
 ---
 
-### Charlybs
 
+### Charlybs
 Web App Dev.
 
-### Contact me
 
+### Contact me
 No.
