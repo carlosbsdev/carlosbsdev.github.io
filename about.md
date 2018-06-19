@@ -4,8 +4,6 @@ title: About
 permalink: /about/
 ---
 
-
-### About
 Desarrollo web (Backend+) entre otras cosas.
 
 
