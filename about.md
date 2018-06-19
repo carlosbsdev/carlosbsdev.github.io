@@ -5,8 +5,8 @@ permalink: /about/
 ---
 
 
-### Charlybs
-Web App Dev.
+### About
+Desarrollo web (Backend+) entre otras cosas.
 
 
 ### Contact me
