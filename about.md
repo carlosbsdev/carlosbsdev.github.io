@@ -4,10 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Desarrollo web (Backend+) entre otras cosas.
-🖥️ Desarrollo web (Backend+) entre otras cosas 🖥️ ❤️ Open Source ❤️ Hardwarefílico.
+Desarrollo web (Backend+) ❤️ Open Source ❤️ Hardwarefílico.
 
 
 ### Contact me
-[Twitter](https://twitter.com/Charlybs_)  ✉️
+[Twitter](https://twitter.com/Charlybs_)
 
