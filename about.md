@@ -8,5 +8,5 @@ Desarrollo web (Backend+) ❤️ Open Source ❤️ Hardwarefílico.
 
 
 ### Contact me
-[Twitter](https://twitter.com/Charlybs_)
+[1.2]: http://i.imgur.com/wWzX9uB.png [Twitter](https://twitter.com/Charlybs_)
 
