@@ -3,7 +3,7 @@
 #
 
 # Name of your site (displayed in the header)
-name: Charlybs
+name: carlosbsdev
 
 # Short bio or description (displayed in the header)
 description: Web Applications Developer
@@ -21,7 +21,7 @@ footer-links:
   email:
   facebook:
   flickr:
-  github: charlybs
+  github: carlosbsdev
   instagram:
   linkedin:
   pinterest:
@@ -37,7 +37,7 @@ footer-links:
 disqus:
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-google_analytics: UA-63614945-7
+google_analytics: 
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
